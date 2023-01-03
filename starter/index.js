@@ -104,11 +104,12 @@ var changes = [];
 for (i = 0; i < finances.length; i++) {
   netTotal += finances[i][1];
   if (i != 0) {
-    // work out the change here
+    // using a for loop we can establish the changes between the integers .
     var currentChange = finances[i][1] - finances[i-1][1];
 
     changes.push(currentChange);
     totalChange += currentChange;
+
   }
 }
 
