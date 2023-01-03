@@ -92,12 +92,10 @@ console.log("Financial Analysis");
 console.log("-----------------------------");
 
 // 86 is the total number that the data set has.
-// figure out how many rows there are in the finances variable
-console.log("Total Months: " + finances.length);
 
-// The net total amount of Profit/Losses over the entire period.
-// add everything together
-// probably a loop
+console.log("Total Months: " + finances.length);
+// Using the Total Months string and the finances.length variable we can find out what was the total amount of the profit or loses for all the 86 months.
+
 var netTotal = 0;
 var totalChange = 0;
 
