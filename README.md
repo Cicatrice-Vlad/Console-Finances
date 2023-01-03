@@ -17,10 +17,10 @@ In order to see the JavaScript code the user would have to access the link to th
 
 
     
-    ```md
-    ![Finance money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSh2Gzomw43qILLwAj5RVg5DAMDxjjxsHB-Q&usqp=CAU)
-     ```
-    
+  
+     
+   ![Finance and money](https://user-images.githubusercontent.com/117217710/210450357-229340bc-9c68-4f0f-bc78-3ff8dc149cc8.jpg)
+
 
 ## Credits
 
