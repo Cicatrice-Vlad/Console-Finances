@@ -18,7 +18,7 @@ In order to see the JavaScript code the user would have to access the link to th
 
     
     ```md
-    ![money-2724241__340](https://user-images.githubusercontent.com/117217710/210449772-0be8652b-3227-4d4b-b6e4-2bd5e9c4917f.jpg)
+    ![Finance money](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSh2Gzomw43qILLwAj5RVg5DAMDxjjxsHB-Q&usqp=CAU)
      ```
     
 
