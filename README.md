@@ -16,9 +16,9 @@ Evaluating the profits and losses of a client by using multiple procedure such a
 In order to see the JavaScript code the user would have to access the link to the application and then proceed to accessing Google's DevTools ( Right-click on the page and press Inspect ) and select the Console section.
 
 
-    ```md
+    
     ![money-2724241__340](https://user-images.githubusercontent.com/117217710/210448838-384b291f-a0ee-48df-92ee-397c48a49f10.jpg)
-    ```
+    
 
 ## Credits
 
