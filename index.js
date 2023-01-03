@@ -115,9 +115,9 @@ for (i = 0; i < finances.length; i++) {
 
 console.log("Total: $" + netTotal);
 
-// The average of the changes in Profit/Losses over the entire period.
-console.log("Average Change : $" + (totalChange/(finances.length - 1)).toFixed(2));
 
+console.log("Average Change : $" + (totalChange/(finances.length - 1)).toFixed(2));
+// The average of the changes in Profit/Losses over the entire period.
 var greatestIncrease = Math.max(...changes);
 var greatestDecrease = Math.min(...changes);
 
@@ -130,7 +130,9 @@ var minMonth = finances[indexMin][0]
 console.log(changes)
 
 console.log("Greatest Increase in Profits: " + maxMonth + " ($"+ greatestIncrease + ")");
+// Establishing the month and year as well as the number of the most profitable time.
 console.log("Greatest Decrease in Profits: " + minMonth + " ($" + greatestDecrease + ")");
+// Establishing the month and year as well as the number of the least but yet still profitable time.
 
 
 
