@@ -131,8 +131,9 @@ console.log(changes)
 
 console.log("Greatest Increase in Profits: " + maxMonth + " ($"+ greatestIncrease + ")");
 // Establishing the month and year as well as the number of the most profitable time.
-console.log("Greatest Decrease in Profits: " + minMonth + " ($" + greatestDecrease + ")");
-// Establishing the month and year as well as the number of the least but yet still profitable time.
+console.log("Least Increase in Profits: " + minMonth + " ($" + greatestDecrease + ")");
+// Establishing the month and year as well as the number of the least but yet still profitable time. 
+
 
 
 
