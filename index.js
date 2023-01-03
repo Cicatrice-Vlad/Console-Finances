@@ -87,6 +87,7 @@ var finances = [
   ["Feb-2017", 671099],
 ];
 // Using Fibonacci's Sequence, we have managed to calculate each month's profits.
+// Using Concatenation to combine strings and variables accordingly.
 
 console.log("Financial Analysis");
 console.log("-----------------------------");
