@@ -120,9 +120,10 @@ console.log("Average Change : $" + (totalChange/(finances.length - 1)).toFixed(2
 // The average of the changes in Profit/Losses over the entire period.
 var greatestIncrease = Math.max(...changes);
 var greatestDecrease = Math.min(...changes);
-
+// The greates Increase/Decrease in changes.
 var indexMax = changes.indexOf(greatestIncrease) + 1;
 var indexMin = changes.indexOf(greatestDecrease) + 1;
+
 
 var maxMonth = finances[indexMax][0]
 var minMonth = finances[indexMin][0]
